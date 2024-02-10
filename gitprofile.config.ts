@@ -67,7 +67,7 @@ const CONFIG = {
     behance: '',
     medium: '',
     dev: '',
-    stackoverflow: 'm3lixir', // example: '1/jeff-atwood'
+    stackoverflow: '5404930/m3lixir', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
