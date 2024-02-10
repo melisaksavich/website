@@ -59,7 +59,7 @@ const CONFIG = {
   social: {
     linkedin: 'melisasavich',
     twitter: '',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -120,16 +120,22 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'New York University',
+      degree: 'M.S. Computer Science',
+      from: '',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Michigan',
+      degree: 'B.S. Computer Science',
+      from: '',
+      to: '2018',
+    },
+    {
+      institution: 'University of Michigan',
+      degree: 'B.S. Women\'s Studies',
+      from: '',
+      to: '2018',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
